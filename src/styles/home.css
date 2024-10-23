@@ -14,11 +14,11 @@
 
 #cta .title {
     font-size: 4rem;
-    color: darkblue;
+    color: rgb(0, 0, 0);
 }
 
 #cta .title span {
-    color: darkslateblue;
+    color: rgb(252, 192, 63);
 }
 
 #cta .description {
@@ -39,7 +39,7 @@
     display: flex;
     gap: 8px;
     align-items: center;
-    background-color: #5c8dd8;
+    background-color: #ffd562;
     padding: 8px 14px;
     font-weight: 500;
     box-shadow: 0px 0px 12px 4px rgba(179, 63, 63, 0.1);
